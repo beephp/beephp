@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "beephp/framework": "^1.0"
+        "beephp/framework": "dev-master"
     },
     "require-dev": {},
     "autoload": {
